@@ -30,4 +30,8 @@ You are provided with 3 files - train.csv, test.csv, and sample_submission.csv
 
 
 The train and test set contains the different attributes related to demographic and loan information of the applicants such as age, profession, no. of active loans, loan default in previous loans, and so on. The training set contains the target variable loan_default and you need to predict the target variable in the test set.
+![Train_Test](https://user-images.githubusercontent.com/84449238/180631292-39f553b5-73ca-4c34-85ed-b4b568b90a22.JPG)
 
+**b) Submission File Format**
+sample_submission.csv contains 2 variables:-
+![Submission](https://user-images.githubusercontent.com/84449238/180631303-9503ad1a-94bb-47a1-97ea-0564a054d044.JPG)
