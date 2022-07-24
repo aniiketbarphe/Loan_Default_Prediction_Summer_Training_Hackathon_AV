@@ -1,6 +1,6 @@
 ![Intro_Image](https://user-images.githubusercontent.com/84449238/180631097-0281830b-6568-4f1b-a5bf-a712ee6863cf.JPG)
 # Loan_Default_Prediction_Summer_Training_Hackathon_AV
-Problem Statement
+**Problem Statement**
 
 MyHom is a finance company that lends housing loans at the best and most affordable interest rates to customers. In recent times, the company incurred heavy losses due to loan defaults. Most applicants failed to repay the loan as per the promissory note.
 
